@@ -8,8 +8,7 @@
 - 📫 How to reach me: ...  [My Linkedin](https://www.linkedin.com/in/vishal-kurve-8620871b8/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I enjoy programming and learning about new things.I am a tinkerer.
-- skills- ![image](https://github.com/vish2002/vish2002/assets/93674230/916de659-6ae8-4be1-8a1d-dbfa77060c88)
- ![image](https://github.com/vish2002/vish2002/assets/93674230/a55f7e96-2321-4b29-891b-fd28aa3109a8)
+- skills- ![image](https://github.com/vish2002/vish2002/assets/93674230/a55f7e96-2321-4b29-891b-fd28aa3109a8)
 
 
 
