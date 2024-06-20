@@ -24,9 +24,15 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://camo.githubusercontent.com/b7c4792e2fb33e395b587391cf0c28c4bf036bf61d73f36156de8fc3d1c8610c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d415a4841524d494b266c616e67735f636f756e743d3130" alt="Top Langs" style="width: 100%; max-width: 400px; height: auto;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Web Design" style="width: 100%; max-width: 400px; height: auto;"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://camo.githubusercontent.com/b7c4792e2fb33e395b587391cf0c28c4bf036bf61d73f36156de8fc3d1c8610c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d415a4841524d494b266c616e67735f636f756e743d3130" alt="Top Langs" width="400" height="300"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Web Design" width="400" height="300"/>
+    </td>
+  </tr>
+</table>
 
 ![My SVG Image](https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg)
