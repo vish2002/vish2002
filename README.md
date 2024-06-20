@@ -11,6 +11,13 @@
 - 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-kurve-8620871b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Kurve" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vishalkurve/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkurve
+" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vishalkurve/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalkurve" height="30" width="40" /></a>
+</p>
 
 ![Alt text](https://camo.githubusercontent.com/b7c4792e2fb33e395b587391cf0c28c4bf036bf61d73f36156de8fc3d1c8610c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d415a4841524d494b266c616e67735f636f756e743d3130)
 
