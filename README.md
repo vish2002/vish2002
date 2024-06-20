@@ -1,6 +1,10 @@
 <h1 align="center">Hey..👋, I'm Vishal Kurve</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img align="left" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+  <div style="flex: 1;"></div>
+  <img align="right" alt="Web Design" width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+</div>
 
 - 🔭 I’m currently working on: Building Myself
 - 🌱 I’m currently learning: Advanced DSA, AI/ML
@@ -23,16 +27,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalkurve" height="30" width="40" />
   </a>
 </p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/b7c4792e2fb33e395b587391cf0c28c4bf036bf61d73f36156de8fc3d1c8610c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d415a4841524d494b266c616e67735f636f756e743d3130" alt="Top Langs" width="400" height="300"/>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Web Design" width="400" height="300"/>
-    </td>
-  </tr>
-</table>
 
 ![My SVG Image](https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg)
