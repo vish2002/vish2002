@@ -36,3 +36,5 @@
 </table>
 
 ![My SVG Image](https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg)
+
+<h3 align="center">Show ❤️ by starring and forking repositories you find good!</h3>
