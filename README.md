@@ -25,21 +25,10 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&theme=tokyonight&hide_border=true" alt="vish2002's Streak" width="400" height="300"/>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Web Design" width="400" height="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2002&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vish2002's Top Languages" width="400" height="300"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&theme=tokyonight&hide_border=true" alt="vish2002's Streak" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2002&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vish2002's Top Languages" width="400" height="300"/>
+</div>
 
 ![My SVG Image](https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg)
 
