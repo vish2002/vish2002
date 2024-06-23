@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on: Software Development
 - 🤔 I’m looking for help with: ML
 - 💬 Ask me about: DSA, C++, and anything about Tech
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/vishal-kurve-8620871b8/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy programming and learning about new things. I am a tinkerer.
 
