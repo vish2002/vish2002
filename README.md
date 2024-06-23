@@ -28,7 +28,7 @@ I'm Vishal Kurve, a passionate developer from India.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
-<h3 align="center">My Github Stats!</h3>
+<h3 align="center"><a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Roundicons - Flaticon</a>My Github Stats!</h3>
 <table align="center">
   <tr>
     <td>
