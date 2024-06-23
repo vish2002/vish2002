@@ -25,10 +25,16 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&theme=tokyonight&hide_border=true" alt="vish2002's Streak" width="390" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2002&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vish2002's Top Languages" width="390" height="200"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&theme=tokyonight&hide_border=true" alt="vish2002's Streak" width="390" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2002&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="vish2002's Top Languages" width="390" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ![My SVG Image](https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg)
 
