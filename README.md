@@ -8,8 +8,8 @@
 
 I'm Vishal Kurve, a passionate developer from India.
 
-- 🔭 I’m currently working on: Building myself
-- 🌱 I’m currently learning: Advanced DSA and AI/ML
+- 🔭 I’m currently working on: Becoming the Best version of Myself
+- 🌱 I’m currently learning: Data Structures and Algorithms and AI/ML
 - 👯 I’m looking to collaborate on: Software Development projects
 - 🤔 I’m looking for help with: Machine Learning
 - 💬 Ask me about: DSA, C++, and anything related to Tech
