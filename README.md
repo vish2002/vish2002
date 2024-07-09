@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey..👋,+I'm+Vishal+Kurve;A+developer+from+India&center=true&width=500&height=50&vCenter=true&size=30&pause=1500&duration=3000&repeat=true" alt="Typing SVG">
-</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
