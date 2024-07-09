@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Hey I am Vishal Kurve;A Developer From India;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Hey I am Vishal Kurve;A Developer From India &font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
 
 </div>
 
