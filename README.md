@@ -55,5 +55,15 @@ I'm Vishal Kurve, a passionate developer from India.
   <img src="https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg" alt="My SVG Image">
 </p>
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
+
+![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
+
+</div>
+
 <h3 align="center">Show ❤️ by starring and forking repositories you find useful!</h3>
 
