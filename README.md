@@ -65,5 +65,5 @@ Oh, and I really love wise quotes that make you think. So I'm leaving a random q
 
 </div>
 
-<h3 align="center">Show ❤️ by starring and forking repositories you find useful!</h3>
+
 
