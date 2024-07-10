@@ -1,11 +1,15 @@
-<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishal Kurve💙 </h1>
+
+
+---
+
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishal Kurve💙 </h1>
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=A+Developer+from+India&font=Pacifico&center=true&height=50&width=600&vCenter=true)
 
 </div>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
 
 ### Hi there 👋
 
@@ -31,6 +35,7 @@ I'm Vishal Kurve, a passionate developer from India.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+
 <div align="center">
 ### Tools, Software and Technologies:
 
@@ -67,5 +72,6 @@ Oh, and I really love wise quotes that make you think. So I'm leaving a random q
 
 </div>
 
+---
 
-
+Feel free to adjust any part of this to better suit your preferences!
