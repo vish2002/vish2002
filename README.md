@@ -34,6 +34,13 @@ I'm Vishal Kurve, a passionate developer from India.
 <div align="center">
 ### Tools, Software and Technologies:
 
+| ChatGPT | GitHub | Git | VS Code | PyCharm | Json |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="/mnt/data/image.png" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" title="github" alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/> |
+
+
+
+
 | Github | Git | Markdown | VS Code | PyCharm | Json |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" title="github" alt="github" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
