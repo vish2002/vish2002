@@ -67,5 +67,32 @@ Oh, and I really love wise quotes that make you think. So I'm leaving a random q
 
 </div>
 
+<!--
+# DSA in C++
+This repository contains my implementations of various Data Structures and Algorithms (DSA) using C++. Perfect for C++ developers and competitive programming enthusiasts.
+
+Sure! Here are some hashtag keywords you can use for your GitHub profile and repositories:
+
+- #DSA
+- #CPP
+- #C++
+- #DataStructures
+- #Algorithms
+- #CompetitiveProgramming
+- #Coding
+- #Programming
+- #CodeRepository
+- #OpenSource
+- #LeetCode
+- #InterviewPreparation
+- #AlgorithmOptimization
+- #AdvancedCPP
+- #CodingPractice
+- #CPPProjects
+- #GitHubDeveloper
+- #SoftwareDevelopment
+- #TechCommunity
+- #DeveloperPortfolio
 
 
+-->
