@@ -63,8 +63,6 @@ I'm Vishal Kurve, a passionate developer from India.
 
 Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
 
-![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
-[![stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<vishalkurve>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 </div>
 
 <!--
