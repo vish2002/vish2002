@@ -53,6 +53,18 @@ I'm Vishal Kurve, a passionate developer from India.
   </tr>
 </table>
 
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    bool alive=true;
+    while(alive){
+    code;
+    Hustle;
+    }
+}
+```
 <p align="center">
   <img src="https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg" alt="My SVG Image">
 </p>
