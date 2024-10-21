@@ -60,8 +60,8 @@ using namespace std;
 int main() {
     bool alive=true;
     while(alive){
-    cout<<code<<endl;
-    cout<<Hustle<<endl;
+    cout<<"code"<<endl;
+    cout<<"Hustle"<<endl;
     }
 }
 ```
