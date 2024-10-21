@@ -66,7 +66,7 @@ int main() {
 }
 ```
 <p align="center">
-  <img src="https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg" alt="My SVG Image">
+  <img src="https://github.com/vish2002/vish2002/blob/main/github-user-contribution%20(1).svg" alt="My SVG Image">
 </p>
 
 
