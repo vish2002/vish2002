@@ -69,13 +69,6 @@ int main() {
   <img src="https://github.com/vish2002/Python-Game/blob/main/github-user-contribution.svg" alt="My SVG Image">
 </p>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
-
-</div>
 
 <!--
 # DSA in C++
