@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=A+Developer+from+India&font=Pacifico&center=true&height=50&width=600&vCenter=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=A+Programmer+from+India&font=Pacifico&center=true&height=50&width=600&vCenter=true)
 
 </div>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
