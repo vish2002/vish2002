@@ -4,67 +4,45 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=A+Programmer+from+India&font=Pacifico&center=true&height=50&width=600&vCenter=true)
 
-</div>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vish2002&label=Profile%20views&color=0e75b6&style=flat" alt="vish2002" /> </p>
 
-### Hi there 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vish2002" alt="vish2002" /></a> </p>
 
-I'm Vishal Kurve, a passionate developer from India.
+- 🔭 I’m currently working on [URL shortener service using MERN](https://github.com/vish2002/MiniUrlD)
 
-- 🔭 I’m currently working on: Becoming the Best version of Myself
-- 🌱 I’m currently learning: Data Structures and Algorithms and AI/ML
-- 👯 I’m looking to collaborate on: Web Development projects
-- 🤔 I’m looking for help with: Machine Learning
-- 💬 Ask me about: DSA, C++, and anything related to Tech
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy programming and love to explore new technologies. I'm a tinkerer!
+- 🌱 I’m currently learning **MERN**
+
+- 👯 I’m looking to collaborate on **MERN**
+
+- 🤝 I’m looking for help with **AI/ML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vish2002](https://github.com/vish2002)
+
+- 💬 Ask me about **DSA, C++, and anything related to Tech**
+
+- 📫 How to reach me **vishalkurve7@gmail.com**
+
+- 📄 Know about my experiences [https://codolio.com/profile/Vishalkurve7](https://codolio.com/profile/Vishalkurve7)
+
+- ⚡ Fun fact **I am a nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishal-kurve-8620871b8/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/vishalkurve/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/vishalkurve/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/vishalkurve02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalkurve02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-kurve-8620871b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kurve-8620871b8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishalkurve7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishalkurve7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishalkurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkurve" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishalkurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalkurve" height="30" width="40" /></a>
 </p>
-<div align="center">
-### Tools, Software and Technologies:
 
-| ChatGPT | GitHub | Git | VS Code | PyCharm | Chrome |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/vish2002/vish2002/blob/main/chat-gpt%20(1).png?raw=true" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" title="github" alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" title="Json" alt="Json" width="55" height="55"/> |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vish2002&show_icons=true&locale=en&layout=compact" alt="vish2002" /></p>
 
-</div>
-<h3 align="center" style="font-size: 30px;">My Github Stats! <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish2002&show_icons=true&locale=en" alt="vish2002" /></p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="390" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish2002&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="390" height="200"/>
-    </td>
-  </tr>
-</table>
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    bool alive=true;
-    while(alive){
-    code();
-    Hustle();
-    }
-}
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&" alt="vish2002" /></p>
 <p align="center">
   <img src="https://github.com/vish2002/vish2002/blob/main/github-user-contribution%20(1).svg" alt="My SVG Image">
 </p>
