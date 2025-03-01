@@ -1,8 +1,5 @@
-<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishal Kurve💙 </h1>
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=A+Programmer+from+India&font=Pacifico&center=true&height=50&width=600&vCenter=true)
+<h1 align="center">Hi 👋, I'm Vishal Kurve</h1>
+<h3 align="center">A passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish2002&label=Profile%20views&color=0e75b6&style=flat" alt="vish2002" /> </p>
 
@@ -43,6 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish2002&show_icons=true&locale=en" alt="vish2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vish2002&" alt="vish2002" /></p>
+
 <p align="center">
   <img src="https://github.com/vish2002/vish2002/blob/main/github-user-contribution%20(1).svg" alt="My SVG Image">
 </p>
