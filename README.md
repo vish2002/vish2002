@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vishalkurve7@gmail.com**
 
-- 📄 Know about my experiences [https://codolio.com/profile/Vishalkurve7](https://codolio.com/profile/Vishalkurve7)
+- 📄 My coding portfolio [https://codolio.com/profile/Vishalkurve7](https://codolio.com/profile/Vishalkurve7)
 
 - ⚡ Fun fact **I am a nerd**
 
